@@ -34,6 +34,7 @@
             android:id="@+id/TextViewCovid"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins"
             android:text="Covid 19"
             android:textColor="#8696BB"
             android:textSize="15sp"
